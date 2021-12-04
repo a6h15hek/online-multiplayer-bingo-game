@@ -1,0 +1,763 @@
+[
+  
+    {
+        "description" : " From Computer Field",
+        "questions" : "Which is India’s first super computer?",
+        "answer" : "Param8000"
+    },
+    {
+        "description" : "Easy Quesion ",
+        "questions" : "Which bank is called bankers bank of India?",
+        "answer" : "Reserve Bank of India"
+    },
+    {
+        "description" : "An island or isle is any piece of subcontinental land that is surrounded by water.",
+        "questions" : "Which is largest island in the world?",
+        "answer" : "Greenland"
+    },
+    {
+        "description" : "Easy Question related 5 th sd student",
+        "questions" : "Which is largest flower in the world?",
+        "answer" : "Rafflesia"
+    },
+    {
+        "description" : "Fact based Question",
+        "questions" : "  Tsunami is a word in which language?",
+        "answer" : "Japanese"
+    },
+    {
+        "description" : "Geography related QuestionS",
+        "questions" : "Which state has the longest coastal line in India?",
+        "answer" : "Gujrat"
+    },
+    {
+        "description" : "Currents Affairs 2020",
+        "questions" : "Who was awarded the Lokmanya Tilak National Journalism Award in the year 2020",
+        "answer" : "Sanjay Gupta (editor-in-chief of Jagran)"
+    },
+    {
+        "description" : "Currents Affairs 2020",
+        "questions" : "Who was awarded Muppavarapu Venkaiah Naidu National Award for Excellence?",
+        "answer" : "Dr M S Swaminathan"
+    },
+    {
+        "description" : "Currents Affairs 2020",
+        "questions" : "Which district was awarded the Plastic Waste Management Award 2020?",
+        "answer" : "Dibrugarh district during Swachhta Hi Sewa 2019"
+    },
+    {
+        "description" : "Currents Affairs 2020",
+        "questions" : "Which district is awarded the Swachhata Darpan Award 2020?",
+        "answer" : "Peddapalli district"
+    },
+    {
+        "description" : "Currents Affairs 2020",
+        "questions" : "Who was awarded the Prem Bhatia Award for political reporting for his work on issues related to the COVID19 pandemic?",
+        "answer" : "Dipankar Ghose"
+    },
+    {
+        "description" : "Currents affairs 2020",
+        "questions" : "Who received the Richard Dawkins award 2020?",
+        "answer" : "Javed Akhtar"
+    },
+    {
+        "description" : "Currents affairs 2020",
+        "questions" : "Who was awarded Karmaveer Chakra Award instituted by the United Nations and International Confederation of NGO?",
+        "answer" : "Sunil Yadav"
+    },
+    {
+        "description" : "Fact Based",
+        "questions" : "When is earth day observed?",
+        "answer" : "22 April"
+    },
+    {
+        "description" : "Fact Based",
+        "questions" : "Whwn was Camera Invented",
+        "answer" : "1816"
+    },
+    {
+        "description" : "Geographical based Questions",
+        "questions" : "What is the Height of Kanchenjanga",
+        "answer" : "8,586 m"
+    },
+    {
+        "description" : "History Related Facts",
+        "questions" : "Which continent is known as Dark Continent?",
+        "answer" : "Africa"
+        
+    },
+    {
+        "description" : "History Related Facts",
+        "questions" : "On which river the Uri dam is constructed?",
+        "answer" : "Jhalam"
+    },
+    {
+        "description" : "Facts Based",
+        "questions" : "Which is the smallest country in the world?",
+        "answer" : "Vatican City"
+    },
+    {
+        "description" : "India History Related",
+        "questions" : "Who was India’s first Deputy Prime Minister?",
+        "answer" : "Vallabhbhai Patel"
+        
+    },
+    {
+        "description" : "India History Related",
+        "questions" : " Which is the highest dam of India?",
+        "answer" : "Tehri Dam"
+        
+    },
+    {
+        "description" : "General Facts",
+        "questions" : "Which is largest freshwater lake in the world?",
+        "answer" : "Lake Superior"
+    },
+    {
+        "description" : "General Facts based on Indian History",
+        "questions" : "Who was India’s first President?",
+        "answer" : "Dr. Rajendra Prasad"
+    },
+    {
+        "description" : "General Facts based on Indian History",
+        "questions" : "Which Indian state has a separate constitution?",
+        "answer" : "Jammu and Kashmir"
+    },
+    {
+        "description" : "Word's Facts",
+        "questions" : "Panama Canal linked which 2 oceans?",
+        "answer" : "Atlantic and Pacific"
+        
+    },
+    {
+        "description" : "Word's Facts Related ",
+        "questions" : "Who was the inventor of electricity?",
+        "answer" : "Benjamin Franklin"
+    },
+    {
+        "description" : "Chemistry Based Fact",
+        "questions" : "Which metal is the lightest metal in world?",
+        "answer" : "Lithium"
+    },
+    {
+        "description" : "Fact based",
+        "questions" : "LED stands for what?",
+        "answer" : "Light Emitting Diode"
+    },
+    {
+        "description" : "Computer General Fact",
+        "questions" : "Computer is connected to Internet by which device?",
+        "answer" : "Modem"
+    },
+    {
+        "description" : "Sports Sector Related",
+        "questions" : "How many players are there in an ice hockey team?",
+        "answer" : "6"
+    },
+    {
+        "description" : "World's History Fact ",
+        "questions" : "World War ll (WW2) was ended in which year?",
+        "answer" : "1945"
+    },
+    {
+        "description" : "Interesting Fact",
+        "questions" : "Which animal never drinks water in its entire life?",
+        "answer" : "Kangaroo rat"
+    },
+    {
+        "description" : "Fact Based",
+        "questions" : " Vitamin E is important for?",
+        "answer" : "Protecting Cells and vital tissues protection"
+    },
+    {
+        "description" : "Interesting Fact",
+        "questions" : "Which microbe carries malaria?",
+        "answer" : "Female Anopheles mosquito"
+    },
+    {
+        "description" : "Indian History Fact  ",
+        "questions" : "When the ‘Kargil War’ between Pakistan and India took place?",
+        "answer" : "Between May and July 1999."
+    },
+    {
+        "description" : "Indian History Fact",
+        "questions" : "When & Who build the Taj Mahal in Agra?",
+        "answer" : "In 1632 by Shah Jahan."
+    },
+    {
+        "description" : "Facts biased Questions",
+        "questions" : "Who was the first female Indian Astronaut",
+        "answer" : "Kalpana Chawla"
+    },
+    {
+        "description" : "Interesting Fact",
+        "questions" : "Which game is the oldest sports game in the world?",
+        "answer" : " Archery"
+    },
+    {
+        "description" : "Sports Fact Related",
+        "questions" : "Durand Cup is associated with?",
+        "answer" : "Football"
+    },
+    {
+        "description" : "Sports Fact Related",
+        "questions" : "In baseball, how many players are there in one team?",
+        "answer" : "Nine"
+    },
+
+    {
+        "description" : "Sports Fact Related",
+        "questions" : "In the game of snooker, how many balls are present on the table at the beginning of the game?",
+        "answer" : "22"
+    },
+    {
+        "description" : "Sports Fact",
+        "questions" : "What is the full form of FIFA?",
+        "answer" : "Federation Internationale de Football Association."
+    },
+    {
+        "description" : "World Fact",
+        "questions" : "What is the national sport of Tajikistan?",
+        "answer" : "Wrestling"
+    },
+    {
+        "description" : "Currents Affairs",
+        "questions" : "Where did the 37th Good and Service Tax (GST) Council Meeting held?",
+        "answer" : "Panaji, Goa"
+    },
+    {
+        "description" : "Currents Affairs",
+        "questions" : "The DAC has approved procurement of how many Tejas fighter aircraft?",
+        "answer" : "83"
+    },
+    {
+        "description" : "History Interesting Fact ",
+        "questions" : "Genghis Khan was died in the year",
+        "answer" : "1206"
+    },
+    {
+        "description" : "History Interesting Fact",
+        "questions" : "In which year Napoleon I crowned himself as Emperor of France",
+        "answer" : "1804"
+    },
+    {
+        "description" : "History Interesting Fact",
+        "questions" : "The Battle of Waterloo was fought in the year",
+        "answer" : "1815"
+    },
+    {
+        "description" : "History Interesting Fact",
+        "questions" : "In which year, Alexander the Great become the king of Macedonia",
+        "answer" : "336 BC"
+    },
+    {
+        "description" : "Interesting Fact",
+        "questions" : "What is the full name of Google?",
+        "answer" : "Global Organization Of Oriented Group Language Of Earth"
+    },
+    {
+        "description" : "Interesting Fact",
+        "questions" : "Who invented the BALLPOINT PEN?",
+        "answer" : " Biro Brothers"
+    },
+    {
+        "description" : "Current Fact",
+        "questions" : "Which IIT institute will start ‘Vastu Shastra’ classes for architecture students?",
+        "answer" : "IIT Kharagpur"
+    },
+    {
+        "description" : "Science Fact",
+        "questions" : "Which is the largest human cell?",
+        "answer" : "Ovum"
+    },
+    {
+        "description" : "Biology Fact Question",
+        "questions" : "What is number of muscles in human body?",
+        "answer" : "639"
+    },
+    {
+        "description" : "World Fact",
+        "questions" : "International Labour Day or Worker’s day is celebrated on which date?",
+        "answer" : "1 May"
+    },
+    {
+        "description" : "Fact based",
+        "questions" : "Which public sector bank is lrgest in INDIA",
+        "answer" : "State bank of INDIA"
+    },
+    {
+        "description" : "Interesting fact",
+        "questions" : "Who invented Google Search Engine",
+        "answer" : "Larry Page and Sergey brin"
+    },
+    {
+        "description" : "Geographical Based Fact",
+        "questions" : "What is the Origin of Tapi River",
+        "answer" : "Satpura Ranges"
+    },
+    {
+        "description" : "One of India's  National Park",
+        "questions" : "Where is Salim Ali national Park is Located",
+        "answer" : "Jammu and Kashmir"
+    },
+    {
+        "description" : "One  Of World's Greatest Organization",
+        "questions" : "Where is World Health Organization Located",
+        "answer" : "Geneva,Switzerland"
+    },
+    {
+        "description" : "National Science Day is celebrated in India  to mark the discovery of the Raman effect by Indian physicist Sir C. V. Raman ",
+        "questions" : "When did The National Science Day is celebrated",
+        "answer" : "28 February"
+    },
+    {
+        "description" : "This is One the Country of Asia",
+        "questions" : "Kuala Lumpur is the Capital of Which Country",
+        "answer" : "Malaysia"
+    },
+    {
+        "description" : "The Place is Also Known For the Rich Heritage of Pyramid",
+        "questions" : "Where is the Pyramid of Khufu is located",
+        "answer" : "Egypt"
+    },
+    {
+        "description" : "One Of the Strongest Mugal Ruler Who Rules more than 20 years",
+        "questions" : "Which Mugal ruler is Associated With Bibi ka Maqbara ",
+        "answer" : "Aurangzeb"
+    },
+    {
+        "description" : "One of Rules of American Country",
+        "questions" : "For maximum how many years The American President can be elected ",
+        "answer" : "Eight Years"
+    },
+    {
+        "description" : "He is regarded as one of the leading scientists in classical antiquity. ",
+        "questions" : "Who is known as Father of Mathematics",
+        "answer" : "Archimedes"
+    },
+    {
+        "description" : "Mission Mangal One Of Movie of Bollywood based on India Mars Mission",
+        "questions" : "Mission Mangal Movie is based on which probe Launched",
+        "answer" : "Mars Orbiter Mission/Magalyaan"
+    },
+    {
+        "description" : "He was 2nd President Of INDIA",
+        "questions" : "Jai Javan Jai Kissan Slogan was given by which Revolutionary",
+        "answer" : "Lal Bahadur Shastri"
+    },
+    {
+        "description" : "It is a story about the childhood experiences of fraternal twins whose lives are destroyed by the Love Laws that lay down who should be loved, and how.",
+        "questions" : "Who is the writer of The God of Small Things",
+        "answer" : "Arundhati Roy "
+    },
+    {
+        "description" : "Interesting Fact",
+        "questions" : "Which was the First State on the basis of language in INDIA",
+        "answer" : "Andra Pradesh"
+    },
+    {
+        "description" : "One of the most Ancient Tribal Community of INDIA",
+        "questions" : "Where does Bhil tribe Find ?",
+        "answer" : "Rajasthan"
+    },
+    {
+        "description" : "Its is Capital of USA",
+        "questions" : "What does the DC means in Washington DC",
+        "answer" : "District of Columbia"
+    },
+    {
+        "description" : "Hint:It is one of Fruits",
+        "questions" : "What Nagpur is famous for",
+        "answer" : "Oranges"
+    },
+    {
+        "description" : "One of best Space Organisation",
+        "questions" : "Full form of ISRO",
+        "answer" : "Indian Space Research Organisation"
+    },
+    {
+        "description" : "prime numbers are  that have only two factors – 1 and the number itself",
+        "questions" : "How many primes numbers are there between 1 to 100 ",
+        "answer" : "25"
+    },
+    {
+        "description" : " This process, creating beer, wine, bread, kimchi, yogurt and other foods.",
+        "questions" : "Name the process which converts sugar into alcohol by yeast.",
+        "answer" : "Fermentation"
+    },
+    {
+        "description" : "It is surrounded by a plasma membrane. ",
+        "questions" : "What is the physical phase of life called?",
+        "answer" : "Protoplasm"
+    },
+    {
+        "description" : "This Game is Mostly played in Asia",
+        "questions" : "What is the national game of Bangladesh?",
+        "answer" : "Kabaddi"
+    },
+    {
+        "description" : "This Country is situated in Europe",
+        "questions" : "In which country is golf played as the national game?",
+        "answer" : "Scotland"
+    },
+    {
+        "description" : "Related to Car Racing",
+        "questions" : "Who among the following was the first black Formula One World Champion in history?",
+        "answer" : "Lewis Hamilton"
+    },
+    {
+        "description" : "Sports Fact",
+        "questions" : "Which country has the most number of golf courses in the world?",
+        "answer" : "United States of America"
+    },
+    {
+        "description" : "He is the fastest man on the planet ",
+        "questions" : "Which male athlete has won the maximum number of gold medals in the World Championships in Athletics?",
+        "answer" : "Usain Bolt"
+    },
+    {
+        "description" : "",
+        "questions" : " Which country is the “country of origin” of taekwondo?",
+        "answer" : "Korea"
+    },
+    {
+        "description" : "Spiderman Is one of most loved Character present in frictional movies",
+        "questions" : "Who is the creator of the character - Spiderman?",
+        "answer" : "Stan Lee"
+    },
+    {
+        "description" : "It is a trans-boundary river which flows through Tibet, Nepal and India.",
+        "questions" : "Which river is known as Bihar ka Shok (Sorrow of Bihar)?",
+        "answer" : "Kosi"
+    },
+    {
+        "description" : "Synonym means Same meaning Words",
+        "questions" : "Synonym of PRECISION is:",
+        "answer" : "Accuracy"
+    },
+    {
+        "description" : "Hat trick means when a Bowler Takes 3 consecutive Wickets in 3 deliveries.",
+        "questions" : "First Indian to take hat-trick in Test cricket is?",
+        "answer" : "Chetan Sharma"
+    },
+    {
+        "description" : "Indian States and there Dance Forms",
+        "questions" : "Kuchipudi is the classical dance form of which Indian state?  ",
+        "answer" : "Andhra Pradesh"
+    },
+    {
+        "description" : "Indian States and there Dance Forms",
+        "questions" : " Giddha is the folk dance of which state?",
+        "answer" : "Punjab"
+    },
+    {
+        "description" : "It is One of most widely used dance form in INDIA",
+        "questions" : "Pandit Birju Maharaj is related to which classical dance form of India?",
+        "answer" : "Kathak"
+    },
+    {
+        "description" : "Indian States and there Dance Forms",
+        "questions" : "Rajasthan is popular for which folk dance?",
+        "answer" : "Ghumar"
+    },
+    {
+        "description" : "Indian States and there Dance Forms",
+        "questions" : "Nautanki is the folk dance of which state?",
+        "answer" : "Uttar Pradesh"
+    },
+    {
+        "description" : "One of most Famous Discovery of All time",
+        "questions" : "Who discovered electrons?",
+        "answer" : "JJ Thomson"
+    },
+    {
+        "description" : "Interesting Fact about Indian Hostory",
+        "questions" : "When did the first stamp in India run?",
+        "answer" : "1854"
+    },
+    {
+        "description" : "Related to British Rule in India",
+        "questions" : "Who implemented permanent settlement in Bengal, Bihar and Orissa?",
+        "answer" : "Lord Cornwallis"
+    },
+    {
+        "description" : "Mugal History",
+        "questions" : "The first battle of Panipat was fought between whom in 1526?",
+        "answer" : "Babar and Ibraham Lodhi"
+    },
+    {
+        "description" : "Mugal History",
+        "questions" : "Which Mughal emperor died by falling down the stairs of the library in Delhi?",
+        "answer" : "Humayun"
+    },
+    {
+        "description" : "Mugal History",
+        "questions" : "In what event did Akbar build the Buland Darwaza in Fatehpur Sikri?",
+        "answer" : " Gujarat Vijay"
+    },
+    {
+        "description" : "Mugal History",
+        "questions" : "Who built the Taj Mahal replica in Aurangabad?",
+        "answer" : " Aurangzeb "
+    },
+    {
+        "description" : "Indian History Related ",
+        "questions" : " Who established the 'India House' in London?",
+        "answer" : "Shyamji Krishna Verma"
+    },
+    {
+        "description" : "Indian History Related",
+        "questions" : "Who was the Viceroy of India at the time of the founding of the Congress?",
+        "answer" : " Lord Dufferin"
+    },
+    {
+        "description" : "Geography based Question",
+        "questions" : "Which is the largest peninsula in the world?",
+        "answer" : "The North-Arabian Peninsula"
+    },
+    {
+        "description" : "Geography based Question",
+        "questions" : "By what other name is the Western Ghats known?",
+        "answer" : "North-Sahyadri mountain range"
+    },
+    {
+        "description" : "Environment Related General Facts",
+        "questions" : "What harmful element is found in tobacco smoke?",
+        "answer" : " Nicotine "
+    },
+    {
+        "description" : "Science Interesting Facts",
+        "questions" : " Which gas is used in seasonal balloons?",
+        "answer" : " Helium "
+    },
+    {
+        "description" : "Science Interesting Facts",
+        "questions" : "The yellow color of cow's milk is due to the presence of",
+        "answer" : " Carotene"
+    },
+    {
+        "description" : "World's  Fact ",
+        "questions" : "When is World AIDS Day celebrated?",
+        "answer" : "December 1"
+    },
+    {
+        "description" : "Indian History Related",
+        "questions" : "Who designed the national flag of India?",
+        "answer" : "Madam Bhikhaji Cama"
+    },
+    {
+        "description" : "Indian History Related",
+        "questions" : "Who formed the Atmiya Sabha in 1815?",
+        "answer" : " Raja Rammohan Roy "
+    },
+    {
+        "description" : "Science Interesting Facts",
+        "questions" : "What energy is there in a key clock?",
+        "answer" : " Hydrogen energy "
+    },
+    {
+        "description" : "Science Interesting Facts",
+        "questions" : "Which gas is helpful in burning?",
+        "answer" : "Oxygen"
+    },
+    {
+        "description" : "Environment Related General Facts",
+        "questions" : "How much of the atmosphere is found up to 29 km altitude?",
+        "answer" : "97%"
+    },
+    {
+        "description" : " Indian History related Incident ",
+        "questions" : "who continued to fight a guerrilla war against British.",
+        "answer" : "Tantia Tope"
+    },
+    {
+        "description" : "Indian History related Incident",
+        "questions" : "The Mutiny started from",
+        "answer" : "Meerut"
+    },
+    {
+        "description" : "Indian History related Incident",
+        "questions" : "How many sepoys were dismissed from service and sentenced to ten years in jail on 9 May, 1857?",
+        "answer" : "85"
+    },
+    {
+        "description" : "Indian History related Incident",
+        "questions" : "Who was given the title of viceroy?",
+        "answer" : " Governor General"
+    },
+    {
+        "description" : "Indian History related Incident",
+        "questions" : "The idea of widow remarriage was advocated by",
+        "answer" : "Dayanand Saraswati "
+    },
+    {
+        "description" : "Indian History related Incident",
+        "questions" : "The Satyashodhak Samaj association was founded by",
+        "answer" : "Jyotirao Phule"
+    },
+    {
+        "description" : "Indian History related Incident",
+        "questions" : "Widow Remarriage Act was passed in the year",
+        "answer" : "1856"
+    },
+    {
+        "description" : "Indian History related Incident",
+        "questions" : "When did the British gain control of Delhi?",
+        "answer" : "1803"
+    },
+    {
+        "description" : "Indian History related Incident",
+        "questions" : "When did Delhi become the capital of British India?",
+        "answer" : "1911"
+    },
+    {
+        "description" : "Indian History related Incident",
+        "questions" : "Dharavi, the largest slum of the world, is situated in",
+        "answer" : "Mumbai"
+    },
+    {
+        "description" : "Indian History related Incident",
+        "questions" : "The Bhilai steel plant was set up in the year",
+        "answer" : "1959"
+    },
+    {
+        "description" : "Indian History related Incident",
+        "questions" : "The United Nations was formed in",
+        "answer" : "1945"
+    },
+    {
+        "description" : "Indian History related Incident",
+        "questions" : "Marathi newspaper ‘Kesari’ was edited by",
+        "answer" : "Balgangadhar Tilak"
+    },
+    {
+        "description" : "Indian History related Incident",
+        "questions" : "The founder of Khudai Khidmatgars was",
+        "answer" : "Badshah Khan"
+    },
+    {
+        "description" : "Indian History related Incident",
+        "questions" : "Bengal was divided by the British in the year",
+        "answer" : "1905"
+    },
+    {
+        "description" : "Indian History related Incident",
+        "questions" : "Who was the first Indian Governor-General of free India?",
+        "answer" : "C. Rajagopalachari"
+    },
+    {
+        "description" : "Basic Geography Facts",
+        "questions" : "What is the process in which minerals lying near the surface are dug?",
+        "answer" : "Quarrying"
+    },
+    {
+        "description" : "Basic Geography Facts",
+        "questions" : "Name the process in which deep wells are bored to take out petroleum and natural gas.",
+        "answer" : "Open cast mining"
+    },
+    {
+        "description" : "Basic Geography Facts",
+        "questions" : "From which mineral is silicon obtained?",
+        "answer" : "Quartz"
+    },
+    {
+        "description" : "Basic Geography Facts",
+        "questions" : "Where do we find natural gas resources in India?",
+        "answer" : "Mumbai "
+    },
+    {
+        "description" : "Energy Related Fact",
+        "questions" : "Energy obtained from the earth is known as:",
+        "answer" : "Geothermal"
+    },
+    {
+        "description" : "Basic Geography Facts",
+        "questions" : "Australia uses its largest portion of its area for",
+        "answer" : "pastures "
+    },
+    {
+        "description" : "Basic Geography Facts",
+        "questions" : "What is cultivation of grapes called’?",
+        "answer" : "Viticulture"
+    },
+    {
+        "description" : "Basic Geography Facts",
+        "questions" : "Rubber plantation is famous in:",
+        "answer" : "Malaysia"
+    },
+    {
+        "description" : "Basic Geography Facts",
+        "questions" : "Which type of soil is good for growing wheat?",
+        "answer" : "Loamy"
+    },
+    {
+        "description" : "Fact About the one of famous element ",
+        "questions" : "Which metal is often called the backbone of modern industry?",
+        "answer" : "Steel"
+    },
+    {
+        "description" : "Basic Geography Facts",
+        "questions" : "The earlier name of Jamshedpur was:",
+        "answer" : "Sakchi"
+    },
+    {
+        "description" : "Basic Geography Facts",
+        "questions" : "Movement of people in. and out of an area is called",
+        "answer" : "Migration"
+    },
+    {
+        "description" : "Nepal History ",
+        "questions" : "When did the King of Nepal finally take over as the head of government?",
+        "answer" : "February, 2005"
+    },
+    {
+        "description" : "Social Science Related Fact",
+        "questions" : "If a 13-year old child is working in a factory, what is it called?",
+        "answer" : "Child labour"
+    },
+    {
+        "description" : "Social Science Related Fact",
+        "questions" : "Secularism means that the state promotes",
+        "answer" : "No religion"
+    },
+    {
+        "description" : "Social Science Related Fact",
+        "questions" : "Who is the Chairman of Rajya Sabha?",
+        "answer" : "Vice-President of India"
+    },
+    {
+        "description" : "Social Science Related Fact",
+        "questions" : "The highest law-making body of our country consisting of the Lok Sabha and the Rajya Sabha is known as",
+        "answer" : "Parliament"
+    },
+    {
+        "description" : "Social Science Related Fact",
+        "questions" : "Who looks after sanitary conditions of the country?",
+        "answer" : "Health Minister"
+    },
+    {
+        "description" : "Social Science Related Fact",
+        "questions" : "The upper house of Parliament, representing the states, is termed as",
+        "answer" : "Rajya Sabha"
+    },
+    {
+        "description" : "Social Science Related Fact",
+        "questions" : "Which is an important way to contro l the executive in Parliament?",
+        "answer" : "Question hour"
+    },
+    {
+        "description" : "Social Science Related Fact",
+        "questions" : "What term refers to a person who is tried by a court for a crime?",
+        "answer" : "Accused"
+    },
+    {
+        "description" : "Social Science Related Fact",
+        "questions" : "Article 21 of the Constitution Guarantees-",
+        "answer" : "Right to life"
+    },
+    {
+        "description" : "Interesting Fact",
+        "questions" : "In which state of India Boat Race is Most Popular",
+        "answer" : "Kerla"
+    }
+]

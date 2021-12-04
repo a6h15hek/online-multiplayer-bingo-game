@@ -1,0 +1,516 @@
+[
+    {
+        "description" : "Easy riddle",
+        "question" : "It belongs to you, but your friends use it more. What is it? ",
+        "answer" : "Your name "
+    },
+    {
+        "description" : "Easy riddle",
+        "question" : " I have a tail and a head, but no body. What am I?",
+        "answer" : "A coin"
+    },
+    {
+        "description" : "Easy riddle",
+        "question" : "You’re running a race and at the very end, you pass the person in 2nd place. What place did you finish the race in?",
+        "answer" :"You finished in 2nd place"
+    },
+    {
+        "description" :"Easy riddle",
+        "question" :"What 2 things can you never eat for breakfast?",
+        "answer" :"Lunch and dinner"
+    },
+    {
+        "description" :"Math riddles",
+        "question" :"When Grant was 8, his brother was half his age. Now, Grant is 14. How old is his brother?",
+        "answer" :"His brother is 10",
+        "explanation" :"Half of 8 is 4, so Grant’s brother is 4 years younger. This means when Grant is 14, his brother is still 4 years younger, so he’s 10."
+    },
+    {
+        "description" :"Math riddles",
+        "question" :"What can you put between 7 and 8, to make the result greater than 7, but less than 8?",
+        "answer" :"A decimal point.",
+        "explanation" :"Your result would be 7.8, which is between 7 and 8."
+    },
+    {
+        "description" :"Math riddles",
+        "question" :"What 3 numbers give the same result when multiplied and added together?",
+        "answer" :"1, 2, and 3",
+        "explanation" :"1 + 2 + 3 = 6 and 1 x 2 x 3 = 6"
+    },
+    {
+        "description" :"Math riddles",
+        "question" :"It’s raining at midnight, but the forecast for tomorrow and the next day is clear. Will there be sunny weather in 48 hours?",
+        "answer" :"No",
+        "explanation" :"It won’t be sunny because it will be dark out. In 48 hours, it will be midnight again."
+    },
+    {
+        "description" :"Hard riddles",
+        "question" :"I go all around the world, but never leave the corner. What am I?",
+        "answer" :"A stamp"
+    },
+    {
+        "description" :"Hard riddles",
+        "question" :"I make a loud sound when I’m changing. When I do change, I get bigger but weigh less. What am I?",
+        "answer" :"Popcorn"
+    },
+    {
+        "description" :"Hard riddles",
+        "question" :"It has keys, but no locks. It has space, but no room. You can enter, but can’t go inside. What is it?",
+        "answer" :"A keyboard"
+    },
+    {
+        "description" :"Hard riddles",
+        "question" :"It’s the only place in the world where today comes before yesterday. Where is it?",
+        "answer" :"The dictionary"
+    },
+    {
+        "description" :"Hard riddles",
+        "question" :"You’ll find me in Mercury, Earth, Mars and Jupiter, but not in Venus or Neptune. What am I?",
+        "answer" :"The letter “R”"
+    },
+    {
+        "description" :"Funny riddles",
+        "question" :" A group of bunnies were having a birthday party. What kind of music were they listening to?",
+        "answer" :"Hip hop music"
+    },
+    {
+        "description" :"Funny riddles",
+        "question" :" What kind of room has no doors or windows?",
+        "answer" :"A mushroom"
+    },
+    {
+        "description" :"Funny riddles",
+        "question" :"I’m orange, I wear a green hat and I sound like a parrot. What am I?",
+        "answer" :"A Carrot"
+    },
+    {
+        "description" :"",
+        "question" :"What occurs once in a minute, twice in a moment and never in one thousand years?",
+        "answer" :"The letter “M”"
+    },
+    {
+        "description" :"",
+        "question" :"Which letter of the alphabet has the most water? ",
+        "answer" :"C (Sea)"
+    },
+    {
+        "description" :"",
+        "question" :"I am a word. If you pronounce me rightly, it will be wrong. If you pronounce me wrong it is right. What word am I?",
+        "answer" :"Wrong"
+    },
+    {
+        "description" :"",
+        "question" :"What starts with a P, ends with an E and has thousands of letters?",
+        "answer" :"The Post Office"
+    },
+    {
+        "description" :"",
+        "question" :"What has to be broken before you can use it?",
+        "answer" :"An egg"
+    },
+    {
+        "description" :"",
+        "question" :"How many letters are there in the alphabet?",
+        "answer" :"Eleven – T-h-e A-l-p-h-a-b-e-t"
+    },
+    {
+        "description" :"",
+        "question" :"What ship has two mates, but no captain?",
+        "answer" :"A relationship"
+    },
+    {
+        "description" :"",
+        "question" :"What begins with T ends with T and has T in it?",
+        "answer" :"A teapot"
+    },
+    {
+        "description" :"",
+        "question" :"What kind of tree can you carry in your hand?",
+        "answer" :"A palm"
+    },
+    {
+        "description" :"",
+        "question" :"If an electric train is travelling south, which way is the smoke going?",
+        "answer" :"There is no smoke; it is an electric train!"
+    },
+    {
+        "description" :"",
+        "question" :"They come out at night without being called, and are lost in the day without being stolen. What are they?",
+        "answer" :"Stars"
+    },
+    {
+        "description" :"",
+        "question" :"What is next in this sequence? JFMAMJJASON",
+        "answer" :"The letter “D.” The sequence contains the first letter of each month."
+    },
+    {
+        "description" :"",
+        "question" :"I don’t have eyes, ears, nose and tongue, but I can see, smell, hear and taste everything. What am I?",
+        "answer" :"A brain"
+    },
+    {
+        "description" :"",
+        "question" :"I do not have wings, but I can fly. I don’t have eyes, but I will cry! What am I?",
+        "answer" :"A cloud"
+    },
+    {
+        "description" :"",
+        "question" :"I do not speak, cannot hear or speak anything, but I will always tell the truth. What am I?",
+        "answer" :"A mirror"
+    },
+    {
+        "description" :"",
+        "question" :"I go around all the places, cities, towns and villages, but never come inside. What am I?",
+        "answer" :"A street"
+    },
+    {
+        "description" :"",
+        "question" :"I have lots of memories, but I own nothing. What am I?",
+        "answer" :"A photo frame"
+    },
+    {
+        "description" :"",
+        "question" :"I have no legs. I will never walk, but always run. What am I?",
+        "answer" :"A river"
+    },
+    {
+        "description" :"",
+        "question" :"I have no life, but I can die, what am I?",
+        "answer" :"A battery"
+    },
+    {
+        "description" :"",
+        "question" :"I have rivers, but do not have water. I have dense forests, but no trees and animals. I have cities, but no people live in those cities. What am I?",
+        "answer" :"A map"
+    },
+    {
+        "description" :"",
+        "question" :"I never ask questions, but always answered. What am I?",
+        "answer" :"A doorbell"
+    },
+    {
+        "description" :"",
+        "question" :"I was born big, but as the day passes, as I get older, I become small. What am I?",
+        "answer" :"A candle"
+    },
+    {
+        "description" :"",
+        "question" :"I am full of keys, but I cannot open any door. What am I?",
+        "answer" :"A piano"
+    },
+    {
+        "description" :"",
+        "question" :"I’m the end of the colorful rainbow. What am I?",
+        "answer" :"Water"
+    },
+    {
+        "description" :"",
+        "question" :"If you give me water, I will die. What am I?",
+        "answer" :"Fire"
+    },
+    {
+        "description" :"",
+        "question" :"Many times you need me. The more and more you take me further, the more and more you leave me behind. What am I?",
+        "answer" :"Footsteps"
+    },
+    {
+        "description" :"",
+        "question" :"People buy me to eat, but never eat me. What am I?",
+        "answer" :"A plate"
+    },
+    {
+        "description" :"",
+        "question" :"When the water comes down, when it rains, I go up. What am I?",
+        "answer" :"An umbrella"
+    },
+    {
+        "description" :"",
+        "question" :"You can break me easily without even touching me or seeing me. What am I?",
+        "answer" :"A promise"
+    },
+    {
+        "description" :"",
+        "question" :"You can keep it only after giving it away to someone else. What is it?",
+        "answer" :"Your word"
+    },
+    {
+        "description" :"",
+        "question" :"It lives without a body, hears without ears, speaks without a mouth, and is born in air. What is it?",
+        "answer" :"An echo"
+    },
+    {
+        "description" :"",
+        "question" :"The more you take away, the larger it becomes? What is it?",
+        "answer" :"A hole"
+    },
+    {
+        "description" :"",
+        "question" :"It has one eye but cannot see? What is it?",
+        "answer" :"A needle"
+    },
+    {
+        "description" :"",
+        "question" :"It has four eyes but cannot see? What is it?",
+        "answer" :"Mississippi"
+    },
+    {
+        "description" :"",
+        "question" :"It has a hundred limbs, but cannot walk? What is it?",
+        "answer" :"A tree"
+    },
+    {
+        "description" :"",
+        "question" :"It is easy to get into, but hard to get out of? What is it?",
+        "answer" :"Trouble"
+    },
+    {
+        "description" :"",
+        "question" :"It has a bark, but no bite. What is it?",
+        "answer" :"A tree"
+    },
+    {
+        "description" :"",
+        "question" :"It flies around all day but never goes anywhere? What is it?",
+        "answer" :"A flag"
+    },
+    {
+        "description" :"",
+        "question" :"This bet can never be won. What is it?",
+        "answer" :"The alphabet"
+    },
+    {
+        "description" :"",
+        "question" :"This type of dress can never be worn. What is it?",
+        "answer" :"An address"
+    },
+    {
+        "description" :"",
+        "question" :"You can you serve it, but never eat it? What is it?",
+        "answer" :"A tennis ball"
+    },
+    {
+        "description" :"",
+        "question" :"It comes down but never goes up? What is it?",
+        "answer" :"Rain"
+    },
+    {
+        "description" :"",
+        "question" :"I am an odd number. Take away a letter and I become even. What number am I?",
+        "answer" :"Seven"
+    },
+    {
+        "description" :"",
+        "question" :"What did the triangle say to the circle?",
+        "answer" :"You’re pointless."
+    },
+    {
+        "description" :"",
+        "question" :"Which is heavier: a ton of bricks or a ton of feathers?",
+        "answer" :"Neither—they both weigh a ton."
+    },
+    {
+        "description" :"",
+        "question" :"If there are three apples and you take away two, how many apples do you have?",
+        "answer" :"You have two apples."
+    },
+    {
+        "description" :"",
+        "question" :"How many months of the year have 28 days?",
+        "answer" :"All of them, because every month has at least 28 days."
+    },
+    {
+        "description" :"",
+        "question" :"If you multiply this number by any other number, the answer will always be the same. What number is this?",
+        "answer" :"Zero"
+    },
+    {
+        "description" :"",
+        "question" :"What did one math book say to the other math book?",
+        "answer" :"Do you want to hear my problems?"
+    },
+    {
+        "description" :"",
+        "question" :"A man has 9 children. Half of them are boys. How is this possible?",
+        "answer" :"They are all boys."
+    },
+    {
+        "description" :"",
+        "question" :"How many sides does a circle have?",
+        "answer" :"Two, the inside and the outside"
+    },
+    {
+        "description" :"",
+        "question" :"Two fathers and two sons are in a car, yet there are only three people in the car. How?",
+        "answer" :"They are a grandfather, father, and son."
+    },
+    {
+        "description" :"",
+        "question" :"The day before yesterday I was 21, and next year I will be 24. When is my birthday?",
+        "answer" :"December 31; today is January 1."
+    },
+    {
+        "description" :"",
+        "question" :"What did the zero say to the eight?",
+        "answer" :"“Nice belt!”"
+    },
+    {
+        "description" :"",
+        "question" :"I add five to nine, and get two. The answer is correct, but how?",
+        "answer" :"When it is 9 a.m., add 5 hours to it and you will get 2 p.m."
+    },
+    {
+        "description" :"",
+        "question" :"Using only addition, how can you add eight 8’s to get the number 1,000?",
+        "answer" :"888 + 88 + 8 + 8 + 8 =1,000"
+    },
+    {
+        "description" :"",
+        "question" :"",
+        "answer" :""
+    },
+    {
+        "description" :"",
+        "question" :"",
+        "answer" :""
+    },
+    {
+        "description" :"",
+        "question" :"",
+        "answer" :""
+    },
+    {
+        "description" :"",
+        "question" :"",
+        "answer" :""
+    },
+    {
+        "description" :"",
+        "question" :"",
+        "answer" :""
+    },
+    {
+        "description" :"",
+        "question" :"",
+        "answer" :""
+    },
+    {
+        "description" :"",
+        "question" :"",
+        "answer" :""
+    },
+    {
+        "description" :"",
+        "question" :"",
+        "answer" :""
+    },
+    {
+        "description" :"",
+        "question" :"",
+        "answer" :""
+    },
+    {
+        "description" :"",
+        "question" :"",
+        "answer" :""
+    },
+    {
+        "description" :"",
+        "question" :"",
+        "answer" :""
+    },
+    {
+        "description" :"",
+        "question" :"",
+        "answer" :""
+    },
+    {
+        "description" :"",
+        "question" :"",
+        "answer" :""
+    },
+    {
+        "description" :"",
+        "question" :"",
+        "answer" :""
+    },
+    {
+        "description" :"",
+        "question" :"",
+        "answer" :""
+    },
+    {
+        "description" :"",
+        "question" :"",
+        "answer" :""
+    },
+    {
+        "description" :"",
+        "question" :"",
+        "answer" :""
+    },
+    {
+        "description" :"",
+        "question" :"",
+        "answer" :""
+    },
+    {
+        "description" :"",
+        "question" :"",
+        "answer" :""
+    },
+    {
+        "description" :"",
+        "question" :"",
+        "answer" :""
+    },
+    {
+        "description" :"",
+        "question" :"",
+        "answer" :""
+    },
+    {
+        "description" :"",
+        "question" :"",
+        "answer" :""
+    },
+    {
+        "description" :"",
+        "question" :"",
+        "answer" :""
+    },
+    {
+        "description" :"",
+        "question" :"",
+        "answer" :""
+    },
+    {
+        "description" :"",
+        "question" :"",
+        "answer" :""
+    },
+    {
+        "description" :"",
+        "question" :"",
+        "answer" :""
+    },
+    {
+        "description" :"",
+        "question" :"",
+        "answer" :""
+    },
+    {
+        "description" :"",
+        "question" :"",
+        "answer" :""
+    },
+    {
+        "description" :"",
+        "question" :"",
+        "answer" :""
+    },
+    {
+        "description" :"",
+        "question" :"",
+        "answer" :""
+    }
+]

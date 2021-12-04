@@ -1,0 +1,468 @@
+[
+    {
+        "description": "Calendar",
+        "question": "  If January 1, 1996, was Monday, what day of the week was January 1, 1997?",
+        "answer": "Wednesday"
+    },
+    {
+        "description": "Calendar",
+        "question": "The first republic day of India was celebrated on January 26, 1950. What day of the week was it?",
+        "answer": "Thursday"
+    },
+    {
+        "description": "Calendar",
+        "question": "On February 5, 1998, it was Thursday. The day of the week on February 5, 1997, was",
+        "answer": "Wednesday"
+    },
+    {
+        "description": "Calendar",
+        "question": "Today is Wednesday, after 68 days, it will be",
+        "answer": "Monday"
+    },
+    {
+        "description": "Calendar",
+        "question": "What was the day of the week on June 17, 1991?",
+        "answer": "Monday"
+    },
+    {
+        "description": "Calendar",
+        "question": "Which of the following years is not a leap year?",
+        "answer": "700"
+    },
+    {
+        "description": "Calendar",
+        "question": "How many days are there in y weeks y days?",
+        "answer": " 8y"
+    },
+    {
+        "description": "Calendar",
+        "question": "The day on 5th April of a year will be the same day on 5th of which month of the same year?",
+        "answer": "5th July"
+    },
+    {
+        "description": "Calendar",
+        "question": "It was Saturday on January 1, 2005. Find the day of the week on January 1, 2010.",
+        "answer": "Friday"
+    },
+    {
+        "description": "Calendar",
+        "question": " If it was Wednesday on March 1, 2006, which day was it on March 1, 2002?",
+        "answer": "Friday"
+    },
+    {
+        "description": "Clocks",
+        "question": " How many times the hands of a clock coincide in a day?",
+        "answer": "22"
+    },
+    {
+        "description": "Clocks",
+        "question": "At what time between 3 and 4, the hands of a clock are straight and point in opposite directions",
+        "answer": "49Apti Clocks17min. past 3"
+    },
+    {
+        "description": "Clocks",
+        "question": "An accurate clock indicates 8 O' clock in the morning. Through how many degrees the hour hand turns when the clock indicates 3 O' clock in the afternoon?",
+        "answer": "210°"
+    },
+    {
+        "description": "Clocks",
+        "question": "A clock is set at 4am. It loses 16 minutes in 24 hours. What will be the correct time when the clock indicates 9pm on the 4th day?",
+        "answer": "10pm"
+    },
+    {
+        "description": "Clocks ",
+        "question": " A watch which gains uniformly is 5 minutes slow at 6am on Monday and is 5 minutes 48 seconds fast at 6pm on the following Monday. When was it correct?",
+        "answer": "5:20 pm on Thursday"
+    },
+    {
+        "description": "Clocks",
+        "question": "An accurate clock shows 8 o'clock in the morning. Through how may degrees will the hour hand rotate when the clock shows 2 o'clock in the afternoon?",
+        "answer": "180°"
+    },
+    {
+        "description": "Clocks",
+        "question": "A clock is started at noon. By 10 minutes past 5, the hour hand has turned through:",
+        "answer": "155°"
+    },
+    {
+        "description": "Clocks",
+        "question": "The angle between the minute hand and the hour hand of a clock when the time is 4.20, is:",
+        "answer": "10°"
+    },
+    {
+        "description": "Clocks",
+        "question": "At 3:40, the hour hand and the minute hand of a clock form an angle of:",
+        "answer": "130°"
+    },
+    {
+        "description": "Clocks",
+        "question": " At what angle the hands of a clock are inclined at 15 minutes past 5?",
+        "answer": "67 1/2"
+    },
+    {
+        "description": "Clocks",
+        "question": " How many times are the hands of a clock at right angle in a day?",
+        "answer": "44"
+    },
+    {
+        "description": " Ages",
+        "question": " The ages of Ram and Shyam differ by 16 years. 6 years ago, the Ram was 3 times as old as Shyam. What is the present age of Ram?",
+        "answer": "30 Years"
+    },
+    {
+        "description": " Ages",
+        "question": " If 6 years are subtracted from the present age of Vijay and the remainder is divided by 18, the present age of Vishal is obtained. If Vishal is 2 years younger to Denis whose age is 5years, then what is Vijay's present age?",
+        "answer": "55 Years"
+    },
+    {
+        "description": "  Ages",
+        "question": "If Suresh borrows Rs. 36000 from Mahesh at rate of interest 6% S.I, at the end of four years how much interest Suresh has to pay along with principal amount?",
+        "answer": "Rs. 12960"
+    },
+    {
+        "description": " Ages",
+        "question": "  The product of the ages of Shyam and Ram is 240. If double the age of Ram is more than Shyam's age by 4 years, what is Ram's present age?",
+        "answer": "12"
+    },
+    {
+        "description": " Ages",
+        "question": " The present ages of Arun, Sunil, and Vivek are in proportions 4:7:9. Before eight years, the sum of their ages was 56. What are their present ages in years?",
+        "answer": "16,28,36"
+    },
+    {
+        "description": " Ages",
+        "question": "The age of John 10 years ago was thrice the age of his son. After ten years, John's age will be twice that of his son. What is the ratio of their present ages?",
+        "answer": "7:3"
+    },
+    {
+        "description": " Ages",
+        "question": " Sobha's father was 38 years of age when she was born while her mother was 36 years old when her brother four years younger to her was born. What is the difference between the ages of Shoba?s parents?",
+        "answer": "6 Years"
+    },
+    {
+        "description": " Ages",
+        "question": "Vipul's present age is two-fifths of the age of his mother. After 8 years, Vipul will be one-half of the age of his mother. What is the present age of Vipul's mother?",
+        "answer": "40 Years"
+    },
+    {
+        "description": " Ages",
+        "question": "The sum of the present age of mother and her son is 60 years. Six years ago, the age of the mother was five times the age of her son. What will be the age of her son after 6 years?",
+        "answer": "20 years"
+    },
+    {
+        "description": " Ages",
+        "question": " Simran is younger than Simarjeet by 7 years, and the ratio of their ages is 7:9. What is the age of Simran?",
+        "answer": "24.5 years"
+    },
+    {
+        "description": "Partnership  ",
+        "question": " Sohan started a business with a capital of Rs. 80000. After 6 months Mohan joined as a partner by investing Rs. 65000. After one year they earned total profit Rs. 20000. What is share of Sohan in the profit?",
+        "answer": "Rs. 14222.2"
+    },
+    {
+        "description": "Partnership  ",
+        "question": "A, B and C are partners. They have invested Rs.35000, Rs. 25000 and 10,000 respectively for the same period. If the total profit is Rs. 18000, find the share of A. ",
+        "answer": "Rs. 9000"
+    },
+    {
+        "description": "Partnership  ",
+        "question": "A's and B's shares in a business are in the ratio of 5:3. If A has invested Rs. 70000 for 12 months, for what period B has invested Rs. 60000? ",
+        "answer": "8.4 months"
+    },
+    {
+        "description": " Partnership ",
+        "question": " Suresh started a business by investing a certain amount of money. Rakesh joined him after four months by investing Rs. 50000. If after one year Suresh and Rakesh share the profit in the ratio of 10:8, how much capital did Suresh invest? ",
+        "answer": "Rs. 41666.7"
+    },
+    {
+        "description": " Partnership ",
+        "question": " A and B enter into a partnership by investing Rs.14000 and Rs. 16000 respectively. After 8 months, C joins them with a capital of Rs.12000. Find the share of C in a total profit of Rs. 57000 after 2 years.",
+        "answer": "Rs.12000"
+    },
+    {
+        "description": "Partnership ",
+        "question": " Ramesh and Suresh enter into a partnership with capitals in the ratio of 10:12. At the end of 8 months, Ramesh withdraws. If they receive profits in the ratio of 10:18. Find how long Suresh's capital was used.",
+        "answer": "12 months"
+    },
+    {
+        "description": "Partnership ",
+        "question": " Raju started a business with Rs. 900. Kamal joined him after few months with an amount of 600. If the profits at the end of the year were divided in the ratio of 2:1, after how many months Kamal joined the business?",
+        "answer": "3 months"
+    },
+    {
+        "description": "Partnership ",
+        "question": "Mahesh and Suresh rent a pasture for 12 months. Mahesh puts in 200 cows for 8 months. How many cows can Suresh put in the pasture for the remaining 4 months if he pays 1(1/2) as much as Mahesh? ",
+        "answer": "600 cows"
+    },
+    {
+        "description": " Partnership",
+        "question": " X and Y enter into a partnership for a year. X invests Rs. 6000, and Y invests Rs. 8000. After 4 months, they admit Z, who invests Rs. 9000. If Y withdraws his contribution after 6 months, how would they share a profit of Rs 1000 at the end of the year?",
+        "answer": "375, 250, 375"
+    },
+    {
+        "description": " Partnership",
+        "question": "  Praveen and Sunny enter into a partnership. Praveen puts in Rs. 50 and Sunny put in Rs. 45. At the end of 4 months Praveen withdraws half of his capital, and at the end of 6 months, Sunny withdraws half of his capital. Ashu Bhati then enters with a capital of Rs. 70. At the end of 12 months, in what ratio will the profit be divided?",
+        "answer": "80:81:84"
+    },
+    {
+        "description": "Pipes and Cisterns ",
+        "question": ") A pipe can fill a tank in 6 hours and another pipe can empty the tank in 12 hours. If both the pipes are opened at the same time, the tank can be filled in ",
+        "answer": "12 hours"
+    },
+    {
+        "description": "Pipes and Cisterns ",
+        "question": "Three pipes A, B and C can fill a cistern in 8 minutes,12 minutes and 16 minutes respectively. What is the time taken by three pipes to fill the cistern when they are opened together? ",
+        "answer": "3.7 minutes"
+    },
+    {
+        "description": " Pipes and Cisterns",
+        "question": " Two pipes can fill a tank in 6 hours and 8 hours respectively. A third pipe can empty the same tank in 12 hours. If all the pipes start working together, how long it will take to fill the tank? ",
+        "answer": "4.8 hours"
+    },
+    {
+        "description": "Pipes and Cisterns ",
+        "question": "  A tank can be filled in 10 hours. After a leak in its bottom, it takes 12 hours to fill the tank. Find the time taken by the leak to empty the full tank?",
+        "answer": "60 hours"
+    },
+    {
+        "description": "Pipes and Cisterns ",
+        "question": "Two pipes can fill a tank in 10 and 14 minutes respectively. A third pipe can empty the tank at the rate of10 liters/minute. If all the pipes working together can fill the empty tank in 8 minutes,what is the capacity of the tank? ",
+        "answer": "215.4 liters"
+    },
+    {
+        "description": "Pipes and Cisterns ",
+        "question": "  A cistern can be filled by an inlet in 6 hours and can be emptied by an outlet in 8 hours. If the inlet and outlet are opened together, in what time the cistern can be filled?",
+        "answer": "24 hours"
+    },
+    {
+        "description": " Pipes and Cisterns",
+        "question": " 20 buckets can fill a tank when the capacity of each bucket is 12 liters. If the capacity of each bucket is 10 liters, find the number of buckets required to fill the tank.",
+        "answer": "24 buckets"
+    },
+    {
+        "description": "Pipes and Cisterns ",
+        "question": "Two pipes working together can fill a fish tank in 12 minutes. If one pipe fills the fish tank 10 minutes faster than the second pipe, in what time the second pipe alone can fill the fish tank? ",
+        "answer": "30 minutes"
+    },
+    {
+        "description": "Pipes and Cisterns ",
+        "question": "  25 outlets working 6 hours a day, can empty a reservoir in 10 days. If only 15 outlets are operational and work for 4 hours a day, in how many days the reservoir can be emptied?",
+        "answer": "25 days"
+    },
+    {
+        "description": "Pipes and Cisterns ",
+        "question": " Pipe A can fill a tank in 12 minutes whereas pipe A along with pipe B can fill the same tank in 8 minutes. In what time pipe B alone can fill the tank? ",
+        "answer": "24 minutes"
+    },
+    {
+        "description": " Height and Distance ",
+        "question": " Two ships are sailing in the sea on the two sides of a lighthouse. The angles of elevation of the top of the lighthouse observed from the ships are 30° and 45° respectively. If the lighthouse is 100m high, find the distance between the two ships.",
+        "answer": "157.80 m"
+    },
+    {
+        "description": "  Height and Distance",
+        "question": " A ladder is leaning against a wall. It makes a 60° angle with the wall. If the distance between foot of ladder and wall is 5.5 meters, find the length of the ladder. ",
+        "answer": "11m"
+    },
+    {
+        "description": " Height and Distance ",
+        "question": " A man 1.5 meter tall is 30√3 meter away from a building. When he sees the top of building the angle of elevation is 30°. Find the height of the building?",
+        "answer": "31.5m"
+    },
+    {
+        "description": " Height and Distance ",
+        "question": "  The angle of elevation of the top of a tower at a point X is 30°. On walking 30 m towards the tower if the angle of elevation becomes 60° at point Y, find the height of the tower?",
+        "answer": "26 m"
+    },
+    {
+        "description": "  Height and Distance",
+        "question": "The tops of two poles are connected by a wire. The heights of the poles are 10 m and 14 m respectively. If the wire makes a 30° angle with the horizontal, find the length of the wire? ",
+        "answer": "8m"
+    },
+    {
+        "description": " Coding Decoding  ",
+        "question": " If in a certain language, NOIDA is coded as OPJEB, how is DELHI coded in that language? ",
+        "answer": "EFMIJ"
+    },
+    {
+        "description": " Coding Decoding  ",
+        "question": "If HOT is coded as GNS, How is COLD coded? ",
+        "answer": "BNKC"
+    },
+    {
+        "description": " Coding Decoding  ",
+        "question": "In a certain code, TREE is written as UQFD. How is LEAF written in that code? ",
+        "answer": "MDBE"
+    },
+    {
+        "description": " Coding Decoding  ",
+        "question": "  In a certain code, PAPER is written as QPARE. How is TABLE written in that code?",
+        "answer": "UBAEL"
+    },
+    {
+        "description": " Coding Decoding  ",
+        "question": " In a certain code, ARMY is written as ASOB. How is JUDGE written in that code?",
+        "answer": "JVFJI"
+    },
+    {
+        "description": " Blood Relations ",
+        "question": "Pointing to a woman, a man said, Her father is the only son of my father. How is the man related to the woman?  ",
+        "answer": " Father"
+    },
+    {
+        "description": " Blood Relations",
+        "question": "  Looking at the portrait of a man, Mohan said, His mother is the wife of my father's son and I have no brother and sister. at whose portrait was Mohan looking? ",
+        "answer": "His son "
+    },
+    {
+        "description": " Blood Relations  ",
+        "question": "Pointing to a photograph, a man said, I have no brother, and that man's father is my father's son. Whose photograph was it? ",
+        "answer": "His son "
+    },
+    {
+        "description" : "Age",
+        "question" : " A mother is twice as old as her son. If 20 years ago, the age of the mother was 10 times the age of the son, what is the present age of the mother?",
+        "answer" : "45 years"
+    },
+    {
+        "description" : "Age",
+        "question" : "Four years ago a man was 6 times as old as his son. After 16 years he will be twice as old as his son. What is the present age of man and his son",
+        "answer" : "34 and 9"
+    },
+    {
+        "description" : "Age",
+        "question" : "The ratio of the ages of Minu and Meera is 4:2. If the sum of their ages is 6 years, find the ratio of their ages after 8 years.",
+        "answer" : "6:5"
+    },
+    {
+        "description" : "Age",
+        "question" : "The ratio of the ages of Seeta and Geeta is 2:7. After 6 years, the ratio of their ages will be 1:2. What is the difference in their present ages",
+        "answer" : "10 years"
+    },
+     {
+        "description" : "Age",
+        "question" : "Ten years ago, the sum of ages of a father and his son was 34 years. If the ratio of present ages of the father and son is 7:2, find the present age of the son",
+        "answer" : "12 years"
+    },
+     {
+        "description" : "Age",
+        "question" : "The sum of the ages of father and his son is 44 years. If 6 years after the father will be 3 times as old as his son, what are their present ages?",
+        "answer" : "36 and 8"
+    },
+     {
+        "description" : "Age",
+        "question" : "Age of father is seven times the age of his son. In the next 10 years, the age of father will be three times the age of his son. What is the age of father now?",
+        "answer" : " 35 years"
+    },
+     {
+        "description" : "Age",
+        "question" : "Twelve years ago, Budh was twice as old as Badri. If the ratio of their present ages is 4:3 respectively, find the difference between their present ages.",
+        "answer" : "6 years"
+    },
+     {
+        "description" : "Average",
+        "question" : "What is the average of first five multiples of 12?",
+        "answer" : "36"
+    },
+     {
+        "description" : "Average",
+        "question" : " Average of five numbers is 20. If each number is multiplied by 2, what will be the new average?",
+        "answer" : "40"
+    },
+     {
+        "description" : "Average",
+        "question" : " The average of Sohan's marks in 6 subjects is 74. If his average in five subjects excluding science is 70, how many marks he obtained in science?",
+        "answer" : "94"
+    },
+     {
+        "description" : "Average",
+        "question" : "Average age of a group of 30 boys is 16 years. A boy of age 19 leaves the group and a new boy joins the group. If the new average age of the group is 15.8 years, find the age of the new boy.",
+        "answer" : "13 years"
+    },
+     {
+        "description" : "Average",
+        "question" : "Area of a square plot is 2304 m2 . Find the side of the square plot",
+        "answer" : "48 cm"
+    },
+     {
+        "description" : "Average",
+        "question" : "Four years ago, the average age of A and B was 20 years. If today average age of A, B and C is 25 years, what will be age of C after 7 years?",
+        "answer" : "34 years"
+    },
+     {
+        "description" : "Time & Work",
+        "question" : " Vikas and Mohan working together can complete a work in 6 days. If Vikas alone completes the same work in 10 days, in how many days Mohan alone can complete the same work?",
+        "answer" : "15 days"
+    },
+     {
+        "description" : "Time & Work",
+        "question" : "Peter is twice as good as workman as Tom. When they work together they can finish a task in 16 days. If Tom works alone, in many days he will complete the task?",
+        "answer" : " 48 days"
+    },
+     {
+        "description" : "Time & Work",
+        "question" : "A can do a job in 12 days and B can do the same job in 10 days. With the help of C they can do the same job in 4 days. In how many days C alone can do this job?",
+        "answer" : "15 days"
+    },
+    {
+        "description" : "Time & Work",
+        "question" : "A, B, C can do a job in 10, 20 and 40 days respectively. In how many days A can complete the job if he is assisted by B and C on every third day?",
+        "answer" : "8 days"
+    },
+    {
+        "description" : "Time & Work",
+        "question" : " If 4 men can finish 4 times of a work in 4 days, in how many days 6 men can finish the 6 times of same work ?",
+        "answer" : "4 days"
+    },
+    {
+        "description" : "Ratio and Proportion",
+        "question" : " A: B: C is in the ratio of 3: 2: 5. How much money will C get out of Rs 1260?",
+        "answer" : "630"
+    },
+    {
+        "description" : "Ratio and Proportion",
+        "question" : " If a: b is 3: 4 and b: c is 2: 5. Find a: b: c.",
+        "answer" : "3:4:10"
+    },
+    {
+        "description" : "Ratio and Proportion",
+        "question" : "The ratio of the total amount distributed in all the males and females as salary is 6: 5. The ratio of the salary of each male and female is 2: 3. Find the ratio of the no. of males and females.",
+        "answer" : "9:5"
+    },
+    {
+        "description" : "Ratio and Proportion",
+        "question" : " The number of employees is reduced in the ratio 3: 2 and the salary of each employee are increased in the ratio 4: 5. By doing so, the company saves Rs. 12000. What was the initial expenditure on the salary??",
+        "answer" : "72000"
+    },
+    {
+        "description" : " Simple Interest",
+        "question" : "If Suresh borrows Rs. 36000 from Mahesh at rate of interest 6% S.I, at the end of four years how much interest Suresh has to pay along with principal amount?",
+        "answer" : "Rs. 12960"
+    },
+    {
+        "description" : "Simple Interest",
+        "question" : " If A lends Rs. 4500 to B at 8% per annum and B lends the same sum to C at 10% per annum, find the gain of B in a period of 3 years.",
+        "answer" : "270"
+    },
+    {
+        "description" : "Simple Interest",
+        "question" : "In how many years the simple interest on Rs. 6000 at 10% rate of interest S.I will become Rs. 1800?",
+        "answer" : "3 months"
+    },
+    {
+        "description" : "Simple Interest",
+        "question" : "In what time Rs. 6000 will give interest of Rs. 720 at the rate of 6% p.a. S.I.?",
+        "answer" : "2 years"
+    },
+   
+    {
+        "description" : "Compound Interest",
+        "question" : " What is the compound interest on Rs. 2500 for 2 years at rate of interest 4% per annum?",
+        "answer" : "204"
+    },
+    {
+        "description" : "Compound Interest",
+        "question" : "What is the amount for a sum of money Rs.7500 at 6% rate of interest C.I. for 2 years?",
+        "answer" : " 8427"
+    }
+]

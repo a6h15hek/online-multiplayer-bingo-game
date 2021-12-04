@@ -1,0 +1,423 @@
+[
+    {
+        "description": "Rational Numbers",
+        "question": "After Performing which operations on whole numbers the result will always be a whole number",
+        "answer": "Addition & Multiplication"
+    },
+    {
+        "description": "Rational Number",
+        "question": "Which of the following operations on whole numbers is associativity in nature",
+        "answer": "Addition & Multiplication"
+    },
+    {
+        "description": "Rational Number",
+        "question": "Additive inverse of -51/100 is",
+        "answer": "51/100"
+    },
+    {
+        "description": "Rational Numbers",
+        "question": "How many rational numbers are between 3/10 and 7/10.",
+        "answer": "39"
+    },
+    {
+        "description": "Rational Numbers",
+        "question": "Find any three rational numbers between -2 and 0.",
+        "answer": "-19/10 , -18/10, -17/10"
+    },
+    {
+        "description": "Linear Equations",
+        "question": "Sum of two numbers is 95. If one exceeds the other by 15, find the numbers",
+        "answer": "40 & 55"
+    },
+    {
+        "description": "Linear Equations",
+        "question": "The difference between the two whole numbers is 66. The ratio of two numbers is 2:5. Find the two numbers?",
+        "answer": "44 & 110"
+    },
+    {
+        "description": "Linear Equations",
+        "question": "Aman is twice as old as Sana. Five years ago his age was three times Sana's age. Find their present age of Aman.",
+        "answer": "20 Years"
+    },
+    {
+        "description": "Linear Equations",
+        "question": "Deveshi has a total of Rs. 590 as currency notes in the denominations of  Rs.50, Rs. 20 and  Rs.10. The ratio of the number of Rs. 50 notes and Rs. 20 notes is 3:5. If she has a total of 25 notes, how many notes of each denomination she has?",
+        "answer": "50 x 6 , 20 x 10, 10 x 9"
+    },
+    {
+        "description": "Linear Equations",
+        "question": "A grandfather is ten times older than his granddaughter. He is also 54 years older than her. Find their present ages of grandfather and granddaughter respectively.",
+        "answer": "60 & 6"
+    },
+    {
+        "description": "Linear Equations",
+        "question": " Find the number of sides of a regular polygon whose each exterior angle has a measure of 45",
+        "answer": "8"
+    },
+    {
+        "description": "Linear Equations",
+        "question": " Find the value of x: 2x – 3 = x + 2",
+        "answer": "5"
+    },
+    {
+        "description": "Quadrilaterals",
+        "question": " The diagonals of a rhombus are ______of one another?",
+        "answer": "Perpendicular and bisectors"
+    },
+    {
+        "description": "Quadrilaterals",
+        "question": " The perimeter of a parallelogram whose parallel sides have lengths equal to 12 cm and 7 cm is:",
+        "answer": "38cm"
+    },
+    {
+        "description": "Quadrilaterals",
+        "question": "  If ∠A and ∠C are two opposite angles of a parallelogram, then:",
+        "answer": "∠A = ∠C"
+    },
+    {
+        "description": "Linear Equation",
+        "question": "What should be added to -7/3 to get 3/7?",
+        "answer": "58/21"
+    },
+    {
+        "description": "Linear Equation",
+        "question": "The age of the father is three times the age of the son. If the age of the son is 15 years old, then the age of the father is:",
+        "answer": "45 years"
+    },
+    {
+        "description": "Linear Equation",
+        "question": "Three consecutive integers add up to 51. The integers are:",
+        "answer": "16,17,18"
+    },
+    {
+        "description": "Linear Equation",
+        "question": "The difference between two whole numbers is 66. The ratio of the two numbers is 2: 5. The two numbers are:",
+        "answer": "110 & 44"
+    },
+    {
+        "description": "Linear Equation",
+        "question": " What is the appropriate condition to construct a quadrilateral?",
+        "answer": " When four sides and one diagonal are given"
+    },
+    {
+        "description": "Linear Equation",
+        "question": "To construct a parallelogram we need to know:",
+        "answer": "Two adjacent sides and one angle"
+    },
+    {
+        "description": "Square and Square root",
+        "question": " Find the square root of 6400.",
+        "answer": "80"
+    },
+    {
+        "description": "Square and Square root",
+        "question": "Find the smallest number by which 9408 must be divided so that the quotient is a perfect square. Find the square root of the quotient",
+        "answer": "3,56"
+    },
+    {
+        "description": "Square and Square root",
+        "question": "Which of the following is a perfect square",
+        "answer": "625"
+    },
+    {
+        "description": "Square and Square root",
+        "question": "If 5278 is squared, then what will be at unit place",
+        "answer": "4"
+    },
+    {
+        "description": "Square and Square root",
+        "question": "What will be the number of zeros in a square of 400",
+        "answer": "4"
+    },
+    {
+        "description": "Square and Square root",
+        "question": " What is the sum of the first four odd natural numbers",
+        "answer": "16"
+    },
+    {
+        "description": "Square and Square root",
+        "question": "The sum of 1 + 3 + 5 + 7 + 9 + 11 + 13 + 15 + 17 +19 is",
+        "answer": "100"
+    },
+    {
+        "description": "Square and Square root",
+        "question": "The Pythagorean triples whose smallest number is 8:",
+        "answer": "8, 15, 17"
+    },
+    {
+        "description": "Square and Square root",
+        "question": "Area of a square plot is 2304 m2 . Find the side of the square plot",
+        "answer": "48 cm"
+    },
+    {
+        "description": "Square and Square root",
+        "question": "Find a Pythagorean triplet in which one member is 12",
+        "answer": "12, 36, 37"
+    },
+    {
+        "description": "Cubes and cube roots",
+        "question": "Which of the following is not a perfect cube",
+        "answer": " 243"
+    },
+    {
+        "description": "Cubes and cube roots",
+        "question": "By what number should 81 be divided to get a perfect cube",
+        "answer": "3"
+    },
+    {
+        "description": "Cubes and cube roots",
+        "question": "By what number should we divide 135 to get a perfect cube",
+        "answer": "5"
+    },
+    {
+        "description": "Cubes and cube roots",
+        "question": "Cube root of 15625 is",
+        "answer": "25"
+    },
+    {
+        "description": "Cubes and cube roots",
+        "question": " A perfect cube of a number having 0 at its unit place, ends with _____ zeros",
+        "answer": "3"
+    },
+    {
+        "description": "Cubes and cube roots",
+        "question": "Is 53240 a perfect cube? If not, then by which smallest natural number should 53240 be divided so that the quotient is a perfect cube?",
+        "answer": "5"
+    },
+    {
+        "description": "Cubes and cube roots",
+        "question": " Is 1188 a perfect cube? If not, by which smallest natural number should 1188 be divided so that the quotient is a perfect cube?",
+        "answer": "44"
+    },
+    {
+        "description": "Cubes and cube roots",
+        "question": "Find the cube root of 8000",
+        "answer": "20"
+    },
+    {
+        "description": "Cubes and cube roots",
+        "question": " Find the cube root of 13824 by prime factorisation method.",
+        "answer": "24"
+    },
+    {
+        "description": "Cubes and cube roots",
+        "question": "Is 243 a perfect cube?",
+        "answer": "no"
+    },
+    {
+        "description": "Cubes and cube roots",
+        "question": "The ratio of speed of cycle 12 km per hour to the speed of scooter 36 km per hour is",
+        "answer": "1:3"
+    },
+    {
+        "description": "Comparing Quantities",
+        "question": "The ratio of 10m to 10 km is:",
+        "answer": "1/1000"
+    },
+    {
+        "description": "Comparing Quantities",
+        "question": "The percentage of 3:4 is:",
+        "answer": "75%"
+    },
+    {
+        "description" : "Comparing Quantities",
+        "question" : "Ramesh has 20 Rupees and Kinjal has 10 paise, Ratio of Money with Ramesh and Kinjal is ?",
+        "answer" : "200:1"
+    },
+    {
+        "description" : "Comparing Quantities",
+        "question" : "Survesh has 250gms Wheat and Roy has 10kgs Wheat, Ratio of Wheat with Survesh to Roy is ?",
+        "answer" : "1:40"
+    },
+    {
+        "description" : "Comparing Quantities",
+        "question" : "In a group of people 40% of them like tea as a beverage, what is the ratio of people don't like tea as a beverage in the group ?",
+        "answer" : "3:5"
+    },
+    {
+        "description" : "Comparing Quantities",
+        "question" : "A pencil box is marked at 150 Rupees and Shopkeeper offers you 40 percent discount to you then the amount you have to pay is ?",
+        "answer" : "90"
+    },
+    {
+        "description" : "Comparing Quantities",
+        "question" : "A Microwave is sold at 4000 Rupees after giving a discount of 20 percent find original price ?",
+        "answer" : "5000"
+    },
+    {
+        "description" : "Algebraic Expressions and Identities",
+        "question" : "Identity of expression : 3x + 5x",
+        "answer" : "Monomial"
+    },
+    {
+        "description" : "Algebraic Expressions and Identities",
+        "question" : "Identity of expression : 9x - 6y + 2xy",
+        "answer" : "Trinomial"
+    },
+    {
+        "description" : "Cubes and Cube Roots",
+        "question" : "What is the cube root of 125?",
+        "answer" : "5"
+    },
+    {
+        "description" : "Sqaures and Square Roots",
+        "question" : "Pythagoras theorem can only be applied on ?",
+        "answer" : "Right angled triangle"
+    },
+    {
+        "description" : "Sqaures and Square Roots",
+        "question" : "What should be the third number to form a pythagorean triplet of 3,4 and ",
+        "answer" : "5"
+    },
+    {
+        "description" : "Data Handling & Probability",
+        "question" : "How many outcomes can be obtained by tossing a coin",
+        "answer" : "Two"
+    },
+    {
+        "description" : "Data Handling & Probability",
+        "question" : "How many outcomes can be obtained by tossing two coins",
+        "answer" : "Four"
+    },
+    {
+        "description" : "Data Handling & Probability",
+        "question" : "How many outcomes can be obtained by rooling a die",
+        "answer" : "Six"
+    },
+    {
+        "description" : "Data Handling & Probability",
+        "question" : "How many outcomes can be obtained by rooling two die's",
+        "answer" : "Thirty Six"
+    },
+    {
+        "description" : "Data Handling & Probability",
+        "question" : "How many outcomes are possible when drawing a card from deck of cards?",
+        "answer" : "Fifty Two"
+    },
+    {
+        "description" : "Data Handling & Probability",
+        "question" : "If two die's are rolled then the sum of both outcomes cannot be lower than",
+        "answer" : "Two"
+    },
+    {
+        "description" : "Quadrilaterals",
+        "question" : "Maximum number of sides a polygon can have is",
+        "answer" : "Infinite"
+    },
+    {
+        "description" : "Quadrilaterals",
+        "question" : "Polygon having ten sides is called",
+        "answer" : "Decagon"
+    },
+    {
+        "description" : "Quadrilaterals",
+        "question" : "Line segment connecting two non consecutive vertices of polygon is called ",
+        "answer" : "Diagonal"
+    },
+    {
+        "description" : "Quadrilaterals",
+        "question" : "If two diagonals of a square intersect, what would be the angle of intersection",
+        "answer" : "90 Deegres"
+    },
+    {
+        "description" : "Quadrilaterals",
+        "question" : "Squares, rectangles, rhombuses are all types of",
+        "answer" : "Parallelogram"
+    },
+    {
+        "description": "Rational Numbers",
+        "question": "After Performing which operations on whole numbers the result will always be a whole number",
+        "answer": "Addition & Multiplication"
+    },
+    {
+        "description": "Rational Number",
+        "question": "Which of the following operations on whole numbers is associativity in nature",
+        "answer": "Addition & Multiplication"
+    },
+    {
+        "description": "Rational Number",
+        "question": "Additive inverse of -51/100 is",
+        "answer": "51/100"
+    },
+    {
+        "description": "Linear Equations",
+        "question": "Sum of two numbers is 95. If one exceeds the other by 15, find the numbers",
+        "answer": "40 & 55"
+    },
+    {
+        "description": "Linear Equations",
+        "question": " Find the value of x: 2x – 3 = x + 2",
+        "answer": "5"
+    },
+    {
+        "description": "Quadrilaterals",
+        "question": " The diagonals of a rhombus are what of one another?",
+        "answer": "Perpendicular and bisectors"
+    },
+    {
+        "description": "Quadrilaterals",
+        "question": " The perimeter of a parallelogram whose parallel sides have lengths equal to 12 cm and 7 cm is:",
+        "answer": "38cm"
+    },
+    {
+        "description": "Square and Square root",
+        "question": " Find the square root of 6400.",
+        "answer": "80"
+    },
+    {
+        "description": "Square and Square root",
+        "question": "What will be the number of zeros in a square of 400",
+        "answer": "4"
+    },
+    {
+        "description": "Square and Square root",
+        "question": " What is the sum of the first four odd natural numbers",
+        "answer": "16"
+    },
+    {
+        "description": "Square and Square root",
+        "question": "The Pythagorean triples whose smallest number is 8:",
+        "answer": "8, 15, 17"
+    },
+    {
+        "description": "Cubes and cube roots",
+        "question": "By what number should 81 be divided to get a perfect cube",
+        "answer": "3"
+    },
+    {
+        "description": "Cubes and cube roots",
+        "question": "The ratio of speed of cycle 12 km per hour to the speed of scooter 36 km per hour is",
+        "answer": "1:3"
+    },
+    {
+        "description": "Comparing Quantities",
+        "question": "The ratio of 10m to 10 km is:",
+        "answer": "1:1000"
+    },
+    {
+        "description": "Comparing Quantities",
+        "question": "The percentage of 3:4 is:",
+        "answer": "75%"
+    },
+    {
+        "description": "Direct and Inverse Proportions",
+        "question": "If 12 workers can build a wall in 50 hours, how many workers will be required to do the same work in 40 hours",
+        "answer": "15 hours"
+    },
+    {
+        "description": "Rational Numbers",
+        "question": "Which number lies between the number 1/4 and 1/6 ?",
+        "answer": "1/5"
+    },
+    {
+        "description": "Denomination",
+        "question": "If Akshat has twelve five rupees coins and two one rupees coins. What is the total amount with him",
+        "answer": "61 rupees"
+    },
+    {
+        "description": "Denomination",
+        "question": "The Notebook costs thirty rupees, then how many five rupees coins will be required to pay the whole amount ?",
+        "answer": "6 conis"
+    }
+
+]

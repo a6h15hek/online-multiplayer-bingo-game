@@ -1,0 +1,32 @@
+.header{
+    display: flex;
+    height: 100px;
+    width: 100%;
+    border: 1px solid black;
+    align-items: center;
+    margin: auto;
+    margin-top: 0px;
+    background-color: rgba(0, 0, 0, 0.212);
+    box-shadow: inset -5px -5px rgba(0, 0, 0, 0.5);
+    max-height: 600px;
+}
+
+.navbar-brand{
+    position: absolute;
+    left: 40px;
+}
+
+.exit{
+    position: absolute;
+    right: 40px;  
+}
+
+.link{
+    position: absolute;
+    right: 200px;
+}
+
+.user{
+    position: absolute;
+    right: 900px;
+}

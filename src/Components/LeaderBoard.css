@@ -1,0 +1,13 @@
+.rank{
+    padding: 10px 20px;
+    height: 85vh;
+    margin-top: 10px;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.212);
+    box-shadow: inset -3px -3px rgba(0, 0, 0, 0.212);
+    border: 1px solid black;
+    box-shadow: inset -5px -5px rgba(0, 0, 0, 0.5);
+    outline: none;
+    font-size: 1rem;
+    font-weight: 500;
+}

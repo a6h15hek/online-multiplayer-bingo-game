@@ -139,27 +139,16 @@ The game was developed under EG-100 Educational Games Challange which was Organi
 
 Below are team members involved in making this game from [IEEE YCCE Student Branch Nagpur](https://www.linkedin.com/company/yccesb/mycompany/)
 
-- Mentor
-    -   | Name  | Mobile | Email |
-        | ------------- | ------------- | ------|
-        | [Prachi Palsodkar](https://www.linkedin.com/in/dr-prachi-palsodkar-b71a979b/)| 9850690111| prachi.palsaodkar@gmail.com|
-        
-- Web Application 
+
+- Contributers 
     -   | Name  | Mobile | Email |
         | ------------- | ------------- | ------|
         | [Abhishek Yadav](https://www.linkedin.com/in/a6h15hek/)| 9850692775| a6h15hek@outlook.com|
-        | [Aditi Vaidya](https://www.linkedin.com/in/aditi-vaidya-7a3451136/)| 9922941475| aditivaditya10@gmail.com|
         | [Sarthak Chafle](https://www.linkedin.com/in/sarthak-chafle-78821a192/)| 9405589803| sarthakchafle@gmail.com|
         | [Akshit Panday](https://www.linkedin.com/in/akshitpanday/)| 7757802469| akshitpanday791@gmail.com|
-        
-- Content , Design & Graphics  
-    -   | Name  | Mobile | Email |
-        | ------------- | ------------- | ------|
         | [Trushita Sonkusare](https://www.linkedin.com/in/trushita-sonkusare-b36b25205/)| 9881123259| trushitasonkusare13@gmail.com|
-- Data 
-    -   | Name  | Mobile | Email |
-        | ------------- | ------------- | ------|
+        | [Aditi Vaidya](https://www.linkedin.com/in/aditi-vaidya-7a3451136/)| 9922941475| aditivaditya10@gmail.com|
         | [Ronak Suthar](https://www.linkedin.com/in/ronaksuthar/)| 8554886091| ronakdj786@gmail.com|
         | [Vikas Kumar Yadav](https://www.linkedin.com/in/vikaskumar-yadavb18/)| 9112647384| kumarvikasb18@gmail.com|
         | [Agam Makode](https://www.linkedin.com/in/agam-makode-587201194/)| 8788463278| agammakode@gmail.com|
-
+        

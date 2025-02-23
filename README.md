@@ -135,20 +135,5 @@ The game was developed under EG-100 Educational Games Challange which was Organi
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
 
-## Created By
 
-Below are team members involved in making this game from [IEEE YCCE Student Branch Nagpur](https://www.linkedin.com/company/yccesb/mycompany/)
-
-
-- Contributers 
-    -   | Name  | Mobile | Email |
-        | ------------- | ------------- | ------|
-        | [Abhishek Yadav](https://www.linkedin.com/in/a6h15hek/)| 9850692775| a6h15hek@outlook.com|
-        | [Sarthak Chafle](https://www.linkedin.com/in/sarthak-chafle-78821a192/)| 9405589803| sarthakchafle@gmail.com|
-        | [Akshit Panday](https://www.linkedin.com/in/akshitpanday/)| 7757802469| akshitpanday791@gmail.com|
-        | [Trushita Sonkusare](https://www.linkedin.com/in/trushita-sonkusare-b36b25205/)| 9881123259| trushitasonkusare13@gmail.com|
-        | [Aditi Vaidya](https://www.linkedin.com/in/aditi-vaidya-7a3451136/)| 9922941475| aditivaditya10@gmail.com|
-        | [Ronak Suthar](https://www.linkedin.com/in/ronaksuthar/)| 8554886091| ronakdj786@gmail.com|
-        | [Vikas Kumar Yadav](https://www.linkedin.com/in/vikaskumar-yadavb18/)| 9112647384| kumarvikasb18@gmail.com|
-        | [Agam Makode](https://www.linkedin.com/in/agam-makode-587201194/)| 8788463278| agammakode@gmail.com|
         
